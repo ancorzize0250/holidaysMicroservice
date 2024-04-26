@@ -1,5 +1,5 @@
 
-## About Microservice
+# Microservicio festivos/feriados
 
 Éste microservicio te permite obtener los días festivos de acuerdo al ID de un país
 
@@ -25,11 +25,11 @@ Función para eliminar un día festivo: /holidaysmantum/public/api/destroy
 
 
 
-# Instalación de dependecias PHP
+### Instalación de dependecias PHP
 composer install
 
 
-# Conexión base de datos
+### Conexión base de datos
 DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
 DB_PORT=5432
@@ -42,6 +42,6 @@ DB_PASSWORD=gatostem123
 - [PHP >= 7.4]
 - [Laravel >= 8.83]
 
-## License
+### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
